@@ -1,0 +1,2 @@
+Adafruit_Blinka
+Adafruit_CircuitPython_DHT
